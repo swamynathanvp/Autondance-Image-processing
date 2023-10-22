@@ -1,0 +1,3 @@
+ultralytics documentation - https://docs.ultralytics.com/
+
+Custom data set - https://www.kaggle.com/datasets/lunarwhite/classroom-monitoring-dataset
