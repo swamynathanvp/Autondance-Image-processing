@@ -1,0 +1,8 @@
+Validation Results:
+
+Model summary (fused): 268 layers, 68124531 parameters, 0 gradients, 257.4 GFLOPs(Giga Floating Point Operations Per Second)
+
+			Precision (P)= 0.936
+			Recall (R)= 0.937
+			mAP50(Mean Average Precision at 50% IoU (Intersection over Union))= 0.96 
+			mAP50-95(Mean Average Precision over a range of IoU thresholds from 50% to 95%)= 0.527
